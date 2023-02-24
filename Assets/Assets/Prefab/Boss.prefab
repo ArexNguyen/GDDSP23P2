@@ -215,7 +215,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   playerController: {fileID: 0}
   timeToDie: 1
-  attackCoolDown: 2
+  attackCoolDown: 1
   damage: 2
   Health: 3
 --- !u!61 &1943482273

@@ -216,7 +216,7 @@ MonoBehaviour:
   playerController: {fileID: 0}
   timeToDie: 1
   attackCoolDown: 2
-  damage: 5
+  damage: 2
   Health: 3
 --- !u!61 &1943482273
 BoxCollider2D:

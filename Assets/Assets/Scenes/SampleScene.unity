@@ -1996,7 +1996,7 @@ PrefabInstance:
       objectReference: {fileID: 1389560557}
     - target: {fileID: 3426476954148041335, guid: 255ab1cd916af2a429964f73497166ce, type: 3}
       propertyPath: attackCoolDown
-      value: 0.25
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3426476954148041335, guid: 255ab1cd916af2a429964f73497166ce, type: 3}
       propertyPath: playerTransform

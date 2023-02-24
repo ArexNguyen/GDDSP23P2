@@ -157,7 +157,7 @@ MonoBehaviour:
   ammoCounter: {fileID: 0}
   maxHealth: 3
   maxAmmo: 10
-  initialAmmo: 2
+  initialAmmo: 0
   laserPrefab: {fileID: 2881088098606369328, guid: 6e152a4977528ea48bf83883545ac297, type: 3}
   healthCounter: {fileID: 0}
 --- !u!95 &119476239

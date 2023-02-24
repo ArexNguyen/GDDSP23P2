@@ -107,7 +107,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   playerController: {fileID: 0}
   timeToDie: 1
-  attackCoolDown: 0.75
+  attackCoolDown: 2
   damage: 1
 --- !u!95 &1973010296
 Animator:

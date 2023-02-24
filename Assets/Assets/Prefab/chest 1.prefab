@@ -168,5 +168,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerController: {fileID: 0}
-  numOfBullet: 2
+  numOfBullet: 3
   openingTime: 0.36

@@ -47,5 +47,10 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("Credits");
     }
+
+    public void HowToPlay()
+    {
+        SceneManager.LoadScene("HowToPlay");
+    }
     #endregion
 }
